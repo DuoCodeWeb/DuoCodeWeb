@@ -1,0 +1,49 @@
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box; }
+  .column {
+    position: center;
+    width: 100%;
+    float: center;
+    box-sizing: border-box; }
+  
+  html {
+    font-size: 100%; }
+  body {
+    background-color: #0a0a0a;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 425;
+    color: #FFFFFF; }
+
+  a {
+    color: #0b88fd; }
+  a:hover {
+    color: #0680f3; }
+
+  button,
+  .button {
+    margin-bottom: 1rem; }
+
+  input,
+  textarea,
+  select,
+  fieldset {
+    margin-bottom: 1.5rem; }
+  pre,
+  blockquote,
+  dl,
+  figure,
+  p,
+  ol {
+    margin-bottom: 2.5rem; }
+  .u-pull-right {
+    float: right; }
+  .u-pull-left {
+    float: left; }
